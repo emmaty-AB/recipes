@@ -1,5 +1,5 @@
-get mah
-get agbeli-mah
+get mah(corn-dough)
+get agbeli-mah(casava-dough)
 put pot with water on fire 
 mix agbeli-mah and mah in the pot
 now start stirring .........
